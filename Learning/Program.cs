@@ -6,8 +6,8 @@ namespace Learning
     {
         static void Main(string[] args)
         {
-            int a=5,b=6, d=0;
-            d = a + b;
+            int a=10,b=2, d=0;
+            d = a/b;
             Console.WriteLine("Your Answer Is " + d );
         }
     }
